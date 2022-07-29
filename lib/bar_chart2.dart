@@ -35,7 +35,7 @@ class BarChartWidget2 extends StatelessWidget {
       return Column(
         children: [
           const TopSectionWidget(
-            title: 'Line Graph',
+            title: 'Bar Graph',
             legends: [],
             padding: EdgeInsets.only(left: 8, right: 18, top: 8, bottom: 8),
           ),
